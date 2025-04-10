@@ -37,7 +37,7 @@ Tracking confidence threshold (Default：0.5)
 
 # Directory
 <pre>
-│  app.py
+│  Gesture.py
 │  keypoint_classification.ipynb
 │  point_history_classification.ipynb
 │  
