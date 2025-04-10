@@ -22,7 +22,7 @@ This repository contains the following contents.
 # Demo
 Here's how to run the demo using your webcam.
 ```bash
-python app.py
+python Gesture.py
 ```
 
 The following options can be specified when running the demo.
@@ -59,7 +59,7 @@ Tracking confidence threshold (Default：0.5)
 └─utils
     └─cvfpscalc.py
 </pre>
-### app.py
+### Gesture.py
 This is a sample program for inference.<br>
 In addition, learning data (key points) for hand sign recognition,<br>
 You can also collect training data (index finger coordinate history) for finger gesture recognition.
